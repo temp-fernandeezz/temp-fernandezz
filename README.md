@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/temp-fernandeezz/temp-fernandeezz/blob/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/temp-fernandeezz/temp-fernandeezz/output/snake.svg)
 
 ###
