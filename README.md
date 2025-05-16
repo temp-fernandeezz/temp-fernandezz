@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/temp-fernandeezz/temp-fernandeezz/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/temp-fernandeezz/temp-fernandeezz/blob/output/snake.svg)
 
 ###
