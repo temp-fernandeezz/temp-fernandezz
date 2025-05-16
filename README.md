@@ -13,11 +13,11 @@
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>Working at Evolutap</p></div>
+<div align="center"><p>Evolutap</p></div>
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>Learning Java, Django and Python</p></div>
+<div align="center"><p>Java, Django and Python</p></div>
 
 ## 👀 Visitor Count
 
