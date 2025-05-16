@@ -1,48 +1,42 @@
-## Hi there! 👋
+<h2 align="left">Hi 👋! My name is Fernanda Fernandes and I'm from Brazil </h2>
 
-I'm Fernanda Fernandes, a passionate software developer from São Paulo, Brazil. I love coding and building innovative solutions to real-world problems. Let's connect and create something amazing together!
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=temp-fernandeezz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=temp-fernandeezz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am a software developer with experience in multiple programming languages and technologies. Currently based in São Paulo - SP, I thrive on learning new skills and tackling challenging projects.
+###
 
-## Skills & Technologies
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-java,kotlin,docker,php,html,css,react,vue,flutter,git,mongodb,express,rails,opencv,fastapi
+###
 
-## Top Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
-- [Java](https://github.com/temp-fernandeezz/Java): A repository showcasing my Java projects. (Language: Java)
-  - Stars: 0 | Forks: 0 | Issues: 0
-- [Kotlin](https://github.com/temp-fernandeezz/Kotlin): A collection of projects developed in Kotlin. (Language: Kotlin)
-  - Stars: 0 | Forks: 0 | Issues: 0
-- [YOI-Japanese-Food](https://github.com/temp-fernandeezz/YOI-Japanese-Food): A JavaScript project developed in EXPO. (Language: JavaScript)
-  - Stars: 0 | Forks: 0 | Issues: 0
-- [OpenCV-Reconhecimento-Facial](https://github.com/temp-fernandeezz/OpenCV-Reconhecimento-Facial): A project focusing on facial recognition using OpenCV. (Language: Python)
-  - Stars: 0 | Forks: 0 | Issues: 0
-- [Docker-API](https://github.com/temp-fernandeezz/Docker-API): A Docker API project with MongoDB integration. (Language: JavaScript)
-  - Stars: 0 | Forks: 0 | Issues: 0
+###
 
-## GitHub Stats
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-🏆 **Public Repositories:** 7  
-👥 **Followers:** 2  
-🔄 **Following:** 5  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=temp-fernandeezz&show_icons=true&theme=radical)
+###
 
-## Recent Activity
+<br clear="both">
 
-Here are some of my latest activities on GitHub:
-- Updated [OpenCV-Reconhecimento-Facial](https://github.com/temp-fernandeezz/OpenCV-Reconhecimento-Facial)  
-- Pushed changes to [Docker-API](https://github.com/temp-fernandeezz/Docker-API)  
-- Contributed to [YOI-Japanese-Food](https://github.com/temp-fernandeezz/YOI-Japanese-Food)  
-- Created a new repository for [Java](https://github.com/temp-fernandeezz/Java)  
-- Submitted an issue on [Kotlin](https://github.com/temp-fernandeezz/Kotlin)
+<img src="https://raw.githubusercontent.com/temp-fernandeezz/temp-fernandeezz/output/snake.svg" alt="Snake animation" />
 
-## Latest Blog Posts
-
-Coming soon! Stay tuned for my latest insights and tutorials.
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/fernanda-fernandes-nascimento","instagram":"https://www.instagram.com/temp.fernandezz/"}
+###
