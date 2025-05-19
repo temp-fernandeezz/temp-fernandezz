@@ -11,10 +11,6 @@
 
 <hr>
 
-## 🔭 I'm currently working on
-
-<div align="center"><p>Evolutap</p></div>
-
 ## 🌱 I'm currently learning
 
 <div align="center"><p>Java, Django and Python</p></div>
