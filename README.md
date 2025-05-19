@@ -19,14 +19,6 @@
 
 <div align="center"><p>Java, Django and Python</p></div>
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'temp-fernandeezz' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/temp-fernandeezz/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'temp-fernandeezz' with your actual GitHub username in the URL below -->
